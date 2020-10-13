@@ -97,6 +97,7 @@
     
     .listItem {
         display: inline;
+        padding: 5%;
         display: grid;
         grid-template-columns: 4fr 1fr 1fr;
     }
